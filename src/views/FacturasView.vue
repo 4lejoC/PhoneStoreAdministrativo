@@ -102,7 +102,7 @@ export default {
     },
     data() {
         return {
-            apiUrl: "api/Factura",
+            apiUrl: "/api/Factura",
             facturas: [],
             showForm: false,
             form: {

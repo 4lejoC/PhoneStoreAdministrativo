@@ -64,7 +64,7 @@ export default {
     },
     data() {
         return {
-            apiUrl: "api/Usuario",
+            apiUrl: "/api/Usuario",
             usuarios: [],
             showForm: false,
             form: {
