@@ -1,0 +1,2 @@
+[InternetShortcut]
+URL= /api/* http://phonestore.runasp.net/api/:splat 200

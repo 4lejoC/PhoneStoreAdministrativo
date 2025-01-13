@@ -71,7 +71,7 @@ export default {
     },
     data() {
         return {
-            apiUrl: "http://phonestore.runasp.net/api/DatosGenerales",
+            apiUrl: "/api/DatosGenerales",
             datosGenerales: [],
             showForm: false,
             form: {

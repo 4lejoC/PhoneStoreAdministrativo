@@ -89,7 +89,7 @@ export default {
     },
     data() {
         return {
-            apiUrl: "http://phonestore.runasp.net/api/Producto",
+            apiUrl: "/api/Producto",
             productos: [],
             showForm: false,
             form: {
