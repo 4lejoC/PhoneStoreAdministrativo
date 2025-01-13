@@ -89,7 +89,7 @@ export default {
     },
     data() {
         return {
-            apiUrl: "/api/Producto",
+            apiUrl: "api/Producto",
             productos: [],
             showForm: false,
             form: {

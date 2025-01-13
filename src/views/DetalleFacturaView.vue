@@ -71,7 +71,7 @@ export default {
     },
     data() {
         return {
-            apiUrl: "/api/Detalle_Factura",
+            apiUrl: "api/Detalle_Factura",
             detalleFactura: [],
             showForm: false,
             form: {
